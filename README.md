@@ -1,2 +1,3 @@
 # Realtime-chat-app
-Realtime chat app using Socket IO
+
+#Realtime chat app using socket.io and vanilla JavaScript, HTML, CSS
